@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imsubhajit98/loginForm.git/static/css/main.f6428485.css",
+    "main.js": "/imsubhajit98/loginForm.git/static/js/main.b0b94d83.js",
+    "static/js/787.67f3ad6c.chunk.js": "/imsubhajit98/loginForm.git/static/js/787.67f3ad6c.chunk.js",
+    "index.html": "/imsubhajit98/loginForm.git/index.html",
+    "main.f6428485.css.map": "/imsubhajit98/loginForm.git/static/css/main.f6428485.css.map",
+    "main.b0b94d83.js.map": "/imsubhajit98/loginForm.git/static/js/main.b0b94d83.js.map",
+    "787.67f3ad6c.chunk.js.map": "/imsubhajit98/loginForm.git/static/js/787.67f3ad6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6428485.css",
+    "static/js/main.b0b94d83.js"
+  ]
+}
